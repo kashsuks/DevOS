@@ -1,6 +1,7 @@
 //This is a file for handling terminal inputs and terminal output
 
 //Imports
+#include <stddef.h>
 #include "terminal.h"
 #include "vga.h"
 
