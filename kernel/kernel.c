@@ -1,3 +1,6 @@
+//This file is the entry point for the kernel
+
+//Imports
 #include "terminal.h"
 
 void kernel_main() {
